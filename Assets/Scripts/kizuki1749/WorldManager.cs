@@ -183,7 +183,7 @@ public class WorldManager : MonoBehaviour
             CurrentPage = 0;
             _ = LoadWorlds();
         });
-        DialogManager.ShowDialogSelect(unityEvent, "並べ替える方法を指定してください。", "絞り込み", "null", "キャンセル", "人数順", "取得順", "新しい順", "更新が新しい順");
+        DialogManager.ShowDialogSelect(unityEvent, "並べ替える方法を指定してください。", "絞り込み", "null", "キャンセル", "人気順", "取得順", "新しい順", "更新が新しい順");
     }
 
     public void ShowInstance(int index)
