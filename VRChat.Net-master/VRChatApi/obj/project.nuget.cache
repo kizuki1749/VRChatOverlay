@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "AdmQxmjVLbxbwIQ9fkb0HCA0Zr+LrFgVu1ch15UN9wCemUQdt8YnT25LPW9NjNnHGfb32DnT75awlSVFYOCe8g==",
+  "success": true,
+  "projectFilePath": "F:\\Unity\\VRChatOverlay\\VRChat.Net-master\\VRChatApi\\VRChatApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tkizu\\.nuget\\packages\\liblog\\5.0.2\\liblog.5.0.2.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\tkizu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tkizu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\tkizu\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
