@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ul2f8/arO6fgy4BLI1Ck+ZH59i0hmH6nGKp+WNz3lD4dOWWHWCWH5rGGfs80Iyp3lbYYxHy+UoL/XIR2rg5Pqw==",
+  "success": true,
+  "projectFilePath": "F:\\Unity\\VRChatOverlay\\VRChat.Net-master\\TestClient\\TestClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\tkizu\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

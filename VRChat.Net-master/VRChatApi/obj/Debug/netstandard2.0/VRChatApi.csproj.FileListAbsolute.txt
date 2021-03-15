@@ -1,0 +1,10 @@
+D:\Downloads\VRChat.Net-master\VRChatApi\bin\Debug\netstandard2.0\VRChatApi.deps.json
+D:\Downloads\VRChat.Net-master\VRChatApi\bin\Debug\netstandard2.0\VRChatApi.dll
+D:\Downloads\VRChat.Net-master\VRChatApi\bin\Debug\netstandard2.0\VRChatApi.pdb
+D:\Downloads\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.csprojAssemblyReference.cache
+D:\Downloads\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.AssemblyInfoInputs.cache
+D:\Downloads\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.AssemblyInfo.cs
+D:\Downloads\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.csproj.CoreCompileInputs.cache
+D:\Downloads\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.dll
+D:\Downloads\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.pdb
+D:\Downloads\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.GeneratedMSBuildEditorConfig.editorconfig
