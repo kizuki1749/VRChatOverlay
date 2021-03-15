@@ -3129,7 +3129,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: VRChatOverlaySystem Beta1
+  m_Text: VRChatOverlay Beta2
 --- !u!222 &251671393
 CanvasRenderer:
   m_ObjectHideFlags: 0
