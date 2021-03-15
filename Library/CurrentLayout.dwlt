@@ -21,7 +21,11 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 6}
+<<<<<<< HEAD
   m_MinSize: {x: 950, y: 398}
+=======
+  m_MinSize: {x: 950, y: 374}
+>>>>>>> cdedccc603a26165f53417bbd9353712ef8aadd5
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -67,10 +71,17 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
+<<<<<<< HEAD
   m_MinSize: {x: 683, y: 348}
   m_MaxSize: {x: 12008, y: 8048}
   vertical: 1
   controlID: 83
+=======
+  m_MinSize: {x: 681, y: 324}
+  m_MaxSize: {x: 12006, y: 8024}
+  vertical: 1
+  controlID: 13
+>>>>>>> cdedccc603a26165f53417bbd9353712ef8aadd5
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -139,7 +150,11 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
+<<<<<<< HEAD
   m_MinSize: {x: 950, y: 398}
+=======
+  m_MinSize: {x: 950, y: 374}
+>>>>>>> cdedccc603a26165f53417bbd9353712ef8aadd5
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -205,10 +220,17 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 947
+<<<<<<< HEAD
   m_MinSize: {x: 683, y: 348}
   m_MaxSize: {x: 12008, y: 8048}
   vertical: 0
   controlID: 84
+=======
+  m_MinSize: {x: 681, y: 324}
+  m_MaxSize: {x: 12006, y: 8024}
+  vertical: 0
+  controlID: 14
+>>>>>>> cdedccc603a26165f53417bbd9353712ef8aadd5
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -230,10 +252,17 @@ MonoBehaviour:
     y: 0
     width: 1557
     height: 947
+<<<<<<< HEAD
   m_MinSize: {x: 406, y: 348}
   m_MaxSize: {x: 8006, y: 8048}
   vertical: 1
   controlID: 85
+=======
+  m_MinSize: {x: 404, y: 324}
+  m_MaxSize: {x: 8004, y: 8024}
+  vertical: 1
+  controlID: 15
+>>>>>>> cdedccc603a26165f53417bbd9353712ef8aadd5
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -255,10 +284,17 @@ MonoBehaviour:
     y: 0
     width: 1557
     height: 668
+<<<<<<< HEAD
   m_MinSize: {x: 406, y: 224}
   m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
   controlID: 86
+=======
+  m_MinSize: {x: 404, y: 224}
+  m_MaxSize: {x: 8004, y: 4024}
+  vertical: 0
+  controlID: 16
+>>>>>>> cdedccc603a26165f53417bbd9353712ef8aadd5
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -278,8 +314,13 @@ MonoBehaviour:
     y: 0
     width: 302
     height: 668
+<<<<<<< HEAD
   m_MinSize: {x: 202, y: 224}
   m_MaxSize: {x: 4002, y: 4024}
+=======
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> cdedccc603a26165f53417bbd9353712ef8aadd5
   m_ActualView: {fileID: 18}
   m_Panes:
   - {fileID: 18}
@@ -333,8 +374,13 @@ MonoBehaviour:
     y: 668
     width: 1557
     height: 279
+<<<<<<< HEAD
   m_MinSize: {x: 102, y: 124}
   m_MaxSize: {x: 4002, y: 4024}
+=======
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> cdedccc603a26165f53417bbd9353712ef8aadd5
   m_ActualView: {fileID: 22}
   m_Panes:
   - {fileID: 21}
