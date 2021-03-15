@@ -151,7 +151,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 997
-  m_MinSize: {x: 950, y: 300}
+  m_MinSize: {x: 950, y: 548}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
 MonoBehaviour:
@@ -346,7 +346,7 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 14786
+  m_LastSelectedObjectID: 14530
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -571,9 +571,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: c2390000
-      m_LastClickedID: 14786
-      m_ExpandedIDs: defbffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 3af4ffff5cf4ffff64f4ffff30f6ffff52f6ffff7af8ffffdefbffff8a32000036390000aa530000565a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 

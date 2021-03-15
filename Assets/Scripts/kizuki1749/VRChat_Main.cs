@@ -296,6 +296,7 @@ public class VRChat_Main : MonoBehaviour
                 filterType = 0;
             else if (DialogManager.Result == 2)
                 filterType = 1;
+            CurrentFriendPage = 0;
             await LoadFriends();
         });
         DialogManager.ShowDialogSelect(unityEvent, "オンラインのフレンドを絞り込む方法を選択してください。", "確認", "すべて表示", "お気に入りのみ表示");
