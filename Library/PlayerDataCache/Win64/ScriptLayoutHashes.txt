@@ -284,10 +284,10 @@ b9549bdcdfcbd1e07af194fef7f09a85 Assembly-CSharp.dll:Valve.VR.InteractionSystem.
 3e6cdfefccffd249841ea8d56432bd00 Assembly-CSharp.dll:Valve.VR.SteamVR_Action_Vector2
 a7089f9264d52603b4e6e5c1fd3d2696 Assembly-CSharp.dll:Valve.VR.InteractionSystem.VelocityEstimator
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
+16cb4f17140b7b856579ceec66f53447 Assembly-CSharp.dll:.WorldManager
 d287c185a119d79ff1e89b8a6a2ad8aa Assembly-CSharp.dll:Valve.VR.SteamVR_Frustum
 827788bf62ad53d2c918573e88943cd0 Assembly-CSharp.dll:Valve.VR.SteamVR_Render
 1ba001e1051dbf18703ca59a4cbf3476 Assembly-CSharp.dll:Valve.VR.InteractionSystem.LinearDrive
 75cd39a1f6026e63f483b86039e2c4cb Assembly-CSharp.dll:Valve.VR.SteamVR_Camera
 34e7991a9252968fc267ed59fd9d9940 Assembly-CSharp.dll:Valve.VR.InteractionSystem.HoverButton
 6ec823d0f00acf64b31817518027f4f9 Assembly-CSharp.dll:.VRChat_FriendInfo
-16cb4f17140b7b856579ceec66f53447 Assembly-CSharp.dll:.WorldManager
