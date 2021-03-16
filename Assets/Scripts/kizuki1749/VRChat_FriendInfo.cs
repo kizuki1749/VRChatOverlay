@@ -185,4 +185,18 @@ public class VRChat_FriendInfo : MonoBehaviour
         });
         _ = VRChat_InstanceInfo.ShowInstanceInfo(location.id, locationInstance.name, unityEvent);
     }
+
+    public void SendReqInvite()
+    {
+        UnityEvent unityEvent = new UnityEvent();
+        unityEvent.AddListener(async () =>
+        {
+            if (DialogManager.Result == 1)
+            {
+                await Main.api.NotificationApi.SendRequestInvite(user.id);
+                DialogManager.ShowDialog(null, user.displayName + "にInviteをリクエストしました。", "成功");
+            }
+        });
+        DialogManager.ShowDialogSelect(unityEvent, user.displayName + "にInviteをリクエストしてもよろしいですか？");
+    }
 }

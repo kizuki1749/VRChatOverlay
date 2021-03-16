@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-F:/Unity/VRChatOverlay/bin/VRChatOverlay.exe
+F:/Unity/VRChatOverlay/bin/MonoBleedingEdge/VRChatOverlay.exe
 SceneListBegin?
 Assets/Scenes/Main.unity
 SceneListEnd?

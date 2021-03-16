@@ -8,3 +8,13 @@ D:\Downloads\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.cspr
 D:\Downloads\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.dll
 D:\Downloads\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.pdb
 D:\Downloads\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity\VRChatOverlay\VRChat.Net-master\VRChatApi\bin\Debug\netstandard2.0\VRChatApi.deps.json
+F:\Unity\VRChatOverlay\VRChat.Net-master\VRChatApi\bin\Debug\netstandard2.0\VRChatApi.dll
+F:\Unity\VRChatOverlay\VRChat.Net-master\VRChatApi\bin\Debug\netstandard2.0\VRChatApi.pdb
+F:\Unity\VRChatOverlay\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.csprojAssemblyReference.cache
+F:\Unity\VRChatOverlay\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.GeneratedMSBuildEditorConfig.editorconfig
+F:\Unity\VRChatOverlay\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.AssemblyInfoInputs.cache
+F:\Unity\VRChatOverlay\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.AssemblyInfo.cs
+F:\Unity\VRChatOverlay\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.csproj.CoreCompileInputs.cache
+F:\Unity\VRChatOverlay\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.dll
+F:\Unity\VRChatOverlay\VRChat.Net-master\VRChatApi\obj\Debug\netstandard2.0\VRChatApi.pdb

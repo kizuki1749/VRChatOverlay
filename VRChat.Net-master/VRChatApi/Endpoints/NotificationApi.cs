@@ -40,5 +40,32 @@ namespace VRChatApi.Endpoints
 
             return await Utils.ParseResponse<NotificationResponse>(response);
         }
+
+        public async Task<NotificationResponse> SendRequestInvite(string userId,  string message = "Test")
+        {
+            Logger.Debug(() => $"Sending friend request to {userId}");
+
+            JObject json = new JObject()
+            {
+                { "type", "requestInvite" },
+                { "details", new JObject()
+                {
+                    { "platform", "on" }
+                }
+                },
+                { "message", message }
+            };
+
+            Logger.Debug(() => $"Prepared JSON to post: {json}");
+
+            string jsonText = json.ToString();
+            StringContent content = new StringContent(jsonText, Encoding.UTF8);
+
+            content.Headers.ContentType = new MediaTypeHeaderValue("application/json");
+
+            HttpResponseMessage response = await Global.HttpClient.PostAsync($"user/{userId}/notification?apiKey={Global.ApiKey}", content);
+
+            return await Utils.ParseResponse<NotificationResponse>(response);
+        }
     }
 }
