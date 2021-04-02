@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-F:/Unity/VRChatOverlay/bin/MonoBleedingEdge/VRChatOverlay.exe
+F:/Unity/VRChatOverlay/bin/VRChatOverlay.exe
 SceneListBegin?
 Assets/Scenes/Main.unity
 SceneListEnd?
@@ -69,6 +69,8 @@ abf1930d8126d0b2e00e9449129a0190 UnityEngine.UI.dll:UnityEngine.EventSystems.Tou
 f53353aadf7a88ea54da9f1e48a6d181 Assembly-CSharp.dll:Valve.VR.SteamVR_LoadLevel
 d3c76b14a25eebd3a3323dd43297919c Unity.TextMeshPro.dll:TMPro.TMP_InputField
 445c4578e5fe3309b82f234574ed26a5 Assembly-CSharp.dll:Valve.VR.InteractionSystem.Equippable
+71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Advertisements.dll:UnityEngine.Advertisements.CallbackExecutor
+71bb6a6b6c8f052f948db64c7dd3ca4f UnityEngine.Advertisements.dll:UnityEngine.Advertisements.Editor.Placeholder
 0a178a1c85198b9dad8fc799b8bfaa65 Assembly-CSharp.dll:Valve.VR.InteractionSystem.BodyCollider
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:Valve.VR.SteamVR_CameraMask
 3868ad6d07212a4269be6cd40cc9ea32 Assembly-CSharp.dll:Valve.VR.SteamVR_Settings
